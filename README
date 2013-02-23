@@ -1,0 +1,8 @@
+Pupped Manifest
+===============
+
+These files describe how to configure the Federated Wiki software stack
+as it should be deployed on an Amazon EC2 Micro instance.
+
+These files are most conveniently managed by the Cloudsmith Stack-Hammer
+deployment management system.
